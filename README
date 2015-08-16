@@ -1,0 +1,14 @@
+geom.py
+=======
+
+Implementations of various computational geometry data structures.
+
+Includes:
+  - Point
+  - Rectangle
+  - Quadtree
+
+Tests
+-----
+
+$ ./geom.py -v
